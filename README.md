@@ -29,6 +29,6 @@ Your output should be the total score of the game. Just print to stdout.
 
 <h3>Hand-in</h3>
 
-* Source code (prerably Python or JavaScript)
+* Source code (preferably Python or JavaScript)
 * Some tests showing that it works
 * Short assessment of the code quality, what could be better
