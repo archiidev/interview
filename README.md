@@ -34,3 +34,8 @@ Your output should be the total score of the game. Just print to stdout.
 * Source code (preferably Python or JavaScript)
 * Some tests showing that it works
 * Short assessment of the code quality, what could be better
+
+# Other
+
+* Do not use the internet for help
+* If you don't complete, don't worry
