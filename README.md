@@ -1,4 +1,4 @@
-Bowling-Score
+Bowling task
 =============
 
 Programming challenge for counting the score in a bowling game
