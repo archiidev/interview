@@ -17,9 +17,11 @@ The 10th and final round, the player may be granted extra rolls: In case of a st
 
 <h3>Input</h3>
 
-Your input will consist of a text file defining a (valid) game of bowling.<br>
+Your input will consist of a string defining a (valid) game of bowling.<br>
 The rolls are represented as a sequence of integers. Each integer corresponds to the number of pins that were knocked down in that roll.
-See `sample1.in` that should return the score `131`, and `sample2.in` that should return `183`.
+
+`score("4 3 8 2 7 1 10 7 3 0 10 2 2 10 10 5 4")` should return `131`<br>
+`score("10 10 9 1 7 3 2 7 10 1 9 10 7 1 10 10 10")` should return `183`
 
 <h3>Output</h3>
 
